@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Harry / CT1006148";
+document.getElementById("nameId").textContent = "Harry / CT1006148 Automatic";
 
 //Dynamic background color change
 const color = [
